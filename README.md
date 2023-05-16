@@ -4,12 +4,14 @@
 
 <div align="center">
 Full Stack Developer (C# | VueJs)
+ <br>
  </div>
  
 <div align="center">
 <a href="https://github.com/JhonathanLemos">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonathanLemos&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonathanLemos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <br>
 </div>
  
  
@@ -17,8 +19,7 @@ Full Stack Developer (C# | VueJs)
  
  <div align="center">
   Languages and technologies
-  
-  
+  <br>
 <div>
   
  
