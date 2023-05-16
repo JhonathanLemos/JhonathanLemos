@@ -18,10 +18,14 @@ Full Stack Developer (C# | VueJs)
  <div>
   Languages and technologies
   
-  <img align="center" alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
-    <img align="center" alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">
+  
 <div>
   
+ 
+ <div>
+  <img align="center" alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
+    <img align="center" alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">
+  <div>
 
  
 
