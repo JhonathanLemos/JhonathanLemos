@@ -1,7 +1,7 @@
 <div align="center">
  Hi There 
 </div>
- __________
+
 <div align="center">
 Full Stack Developer (C# | VueJs)
  </div>
