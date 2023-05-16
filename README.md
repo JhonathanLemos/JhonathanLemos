@@ -1,10 +1,5 @@
 
  Hi There
-___________
-   ![CodingGIF](https://github.com/JhonathanLemos/JhonathanLemos/assets/85250010/dbb65bce-88dd-42a2-a99a-6908be8f30f7)
-
-
-
 
 Full Stack Developer (C# | VueJs)
 
