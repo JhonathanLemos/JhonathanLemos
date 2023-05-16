@@ -1,5 +1,10 @@
 
-<h1 align="center">Hi, there! <img src="https://github.com/JhonathanLemos/JhonathanLemos/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+ Hi There
+___________
+![CodingGIF](https://github.com/JhonathanLemos/JhonathanLemos/assets/85250010/dbb65bce-88dd-42a2-a99a-6908be8f30f7)
+
+
+
 
 Full Stack Developer (C# | VueJs)
 
