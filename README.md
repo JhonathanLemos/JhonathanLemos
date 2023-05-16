@@ -7,6 +7,5 @@
 </div>
   
   
-  ![Snake animation](https://github.com/JhonathanLemos/JhonathanLemos/blob/output/github-contribution-grid-snake.svg)
-  
+ 
 
