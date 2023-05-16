@@ -1,10 +1,11 @@
 <div align="center">
- Hi There
- __________
-Full Stack Developer (C# | VueJs)
- 
+ Hi There 
 </div>
-
+ __________
+<div align="center">
+Full Stack Developer (C# | VueJs)
+ </div>
+ 
 <div align="center">
 <a href="https://github.com/JhonathanLemos">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonathanLemos&layout=compact&langs_count=7&theme=dracula"/>
