@@ -21,7 +21,7 @@ Full Stack Developer (C# | VueJs)
  <div></br>
  
  <div align="center">
-  Check this API :
+  Check this project :
   <a href="https://github.com/JhonathanLemos/AcademiaProject"> Asp.Net Core Api with VueJS</a>
  </div>
 
