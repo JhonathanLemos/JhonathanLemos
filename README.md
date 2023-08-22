@@ -22,7 +22,7 @@ Full Stack Developer (C# | VueJs)
  
  <div align="center">
   Check this API :
-  <a href="https://github.com/JhonathanLemos/Asp.Net-boileplateAPI"> Asp.Net Core API</a>
+  <a href="https://github.com/JhonathanLemos/AcademiaProject"> Asp.Net Core Api with VueJS</a>
  </div>
 
  
