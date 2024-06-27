@@ -5,19 +5,25 @@
 - 🔭  Atualmente estou em busca de novas oportunidades...
 - 💻  Estou Cursando Análise e Desenvolvimento de Sistemas 
 
+<br>
 
  <div>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonathanLemos&theme=midnight-purple&show_icons=true)
-
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/JhonathanLemos">
-   <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonathanLemos&layout=compact&langs_count=16&theme=midnight-purple"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonathanLemos&theme=midnight-purple&show_icons=true)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/JhonathanLemos">  <img  height="193"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonathanLemos&layout=compact&langs_count=16&theme=midnight-purple"/>
 
 </div>
+
+## <div align="center">Minhas Stacks</div>
+
+<div align="center">
+  <img align="center" alt="C#" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
+  <img align="center" alt="VueJS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">
+  <img align="center" alt=".NET Core" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
+</div>
  
- ## Contate-me 
-<div>
+## <div align="center">Contate-me</div>
+<div align="center">
 <a href="https://www.linkedin.com/in/jhonathan-lemos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/on_joni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: lemosjhonathan81@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
