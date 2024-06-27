@@ -1,27 +1,29 @@
 <div align="center">
-**Hi There!**
+ Hi There 
 </div>
 
 <div align="center">
-**Full Stack Developer (C# | Vue.js)**
-</div>
+Full Stack Developer (C# | VueJs)
+ </div></br>
+ 
 
-<br>
 
+ 
 <div align="center">
-**Languages and Technologies**
-</div>
-
-<br>
-
+  Languages and technologies
+<div></br>
+  
+ 
 <div align="center">
-  <img src="https://github.com/devicons/devicon" alt="C#" height="30" width="40">
-  <img src="https://github.com/devicons/devicon" alt="Vue.js" height="30" width="40">
-  <img src="https://github.com/devicons/devicon" alt=".NET Core" height="30" width="40">
-</div>
+  <img align="center" alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
+   <img align="center" alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg">
+    <img align="center" alt="" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
+ <div></br>
+ 
+ <div align="center">
+  Check this project :
+  <a href="https://github.com/JhonathanLemos/AcademiaProject"> Asp.Net Core Api with VueJS</a>
+ </div>
 
-<br>
+ 
 
-<div align="center">
-**Check out this project:** [Asp.Net Core Api with VueJS](https://github.com/JhonathanLemos/AcademiaProject)
-</div>
