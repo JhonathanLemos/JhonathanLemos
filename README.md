@@ -7,13 +7,6 @@
 
 <br>
 
- <div>
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonathanLemos&theme=midnight-purple&show_icons=true)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/JhonathanLemos">  <img  height="193"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonathanLemos&layout=compact&langs_count=16&theme=midnight-purple"/>
-
-</div>
-
 ## <div align="center">Minhas Stacks</div>
 
 <div align="center">
